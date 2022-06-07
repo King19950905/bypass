@@ -1,3 +1,6 @@
+service.duozhun.cc
+cf.aliyun.com
+passport.taobao.com0-6.com
 0-6.com
 0001688.com
 0006266.com
